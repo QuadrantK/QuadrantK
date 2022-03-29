@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuadrantK
 - 👀 I’m interested in coding, camping, cool dogs, cool tunes, cameras, cats & cinematography.
-- 🌱 I’m currently learning the dang basics!
+- 🌱 I have just graduated from Juno College of Technology for front-end developement.
 - 💞️ I’m looking to collaborate on Anything!
 - 📫 How to reach me kev.d.weber@gmail.com
 
